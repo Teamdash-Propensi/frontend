@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Team Dash Staging</h1>
+        <h1 className={styles.title}>Team Dash Production</h1>
       </main>
     </div>
   );
