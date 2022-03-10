@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 | NPM | Nama Lengkap | Role |
 | ----------| --- | ---------- | 
 | 1906298916 | Fiorentine Phillips | Lead Designer |
-| 1906353630 | Benitho Ahmad Suryo | Lead Analyst |
+| 1906353630 | Benitho A. Suryo | Lead Analyst |
 | 1906302516 | Affan Mirza Chairy | Scrum Master |
 
 ## Getting Started
