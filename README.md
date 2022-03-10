@@ -7,6 +7,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 | 1906353630 | Benitho A. Suryo | Lead Analyst |
 | 1906302516 | Affan Mirza Chairy | Scrum Master |
 | 1906353712 | Ammar Faridzki Syarif | Project Manager |
+| 1906399202 | Aynun Nissa Setiawan | Technical Lead |
 
 ## Getting Started
 
